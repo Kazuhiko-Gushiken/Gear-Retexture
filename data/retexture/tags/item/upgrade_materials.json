@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#minecraft:planks",
+    "minecraft:cobblestone",
+    "minecraft:copper_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:diamond",
+    "minecraft:netherite_ingot",
+    "minecraft:turtle_scute"
+  ]
+}

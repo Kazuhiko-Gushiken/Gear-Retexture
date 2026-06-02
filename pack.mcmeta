@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Gear Retexture! By Innx",
+    "pack_format": 101,
+    "min_format": [
+      101,
+      2
+    ],
+    "max_format": [
+      101,
+      2
+    ]
+  }
+}
